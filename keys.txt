@@ -1,0 +1,4 @@
+key1 = (17, 3)
+key2 = (7, 5)
+alphabet = ABCDEFGHIJKLMNOPQRSTUVWXYZ
+simple substitution cipher key = HQLWJPNGFVYZMRSAUOTDXKBIEC
